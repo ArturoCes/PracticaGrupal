@@ -1,0 +1,16 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(212, 239, 255);
+    background: linear-gradient(to right, rgb(160, 217, 253), rgb(72, 154, 248) );
+}
+
+form{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.foto{
+    background-image: url(./img/programador.jpg);
+    background-repeat:no-repeat;
+    height: 1000px;    
+    background-position: unset;
+}
